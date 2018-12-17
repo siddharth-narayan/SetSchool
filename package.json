@@ -1,0 +1,22 @@
+{
+  "name": "setschool",
+  "version": "1.0.0",
+  "description": "Registration website for Set School.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharth-narayan/SetSchool.git"
+  },
+  "author": "Siddharth Narayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddharth-narayan/SetSchool/issues"
+  },
+  "homepage": "https://github.com/siddharth-narayan/SetSchool#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
